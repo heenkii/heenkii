@@ -1,4 +1,4 @@
-<h1 align="center">Hi unknown reader, I'm Nikolai (net-walker)</h1>
+<h1 align="center">Hi unknown reader, I'm Nikolai</h1>
 <h3 align="center">I am software engineer from Moscow</h3>
 
 <h4 align="center">Frontent</h4>
