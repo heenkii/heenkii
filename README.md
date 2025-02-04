@@ -1,8 +1,6 @@
 <h1 align="center">Hi unknown reader, I'm Nikolai (net-walker)</h1>
 <h3 align="center">I am software engineer from Moscow</h3>
 
-<h3 align="center">👨‍💻 All about me and my projects are available <a href="https://net-walker.com/">net-walker.com</a></h3>
-
 <h4 align="center">Frontent</h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,sass"/>
