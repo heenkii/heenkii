@@ -1,16 +1,41 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**heenkii/heenkii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+  <tr>
+    <td>
+      <img src="./assets/profile_image.png" alt="My photo" width="800px"/>
+    </td>
+    <td width="500px">
+      <h1>Hi! I'm NIkolai</h1>
+      <h2>DevOps & Site Reliability Engineer👨🏻‍💻</h2>
+      <p>🌍 Based in Moscow, Russia</p>
+      <p>🎮 Lover of tech, coffee, and clean code</p>
+      <p>🌐 I also enjoy web development</p>
+    </td>
+  </tr>
+</table>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ My skills
+
+### 🐳 DevOps & SRE
+
+![DevOps Skills](https://skillicons.dev/icons?i=nginx,docker,linux,git,ansible,grafana,prometheus,postman,bash,gitlab,neovim)
+
+---
+
+### 🌐 Web dev
+
+![DevOps Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,nestjs,express,python)
+
+---
+
+### 💾 Databases
+
+![Database Skills](https://skillicons.dev/icons?i=postgresql,mysql,mongodb,sqlite)
+
+---
+</div>
