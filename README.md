@@ -7,7 +7,7 @@
     </td>
     <td width="500px">
       <h1>Hi! I'm NIkolai</h1>
-      <h2>DevOps & Site Reliability Engineer👨🏻‍💻</h2>
+      <h2>Dev👨🏻‍💻</h2>
       <p>🌍 Based in Moscow, Russia</p>
       <p>🎮 Lover of tech, coffee, and clean code</p>
       <p>🌐 I also enjoy web development</p>
