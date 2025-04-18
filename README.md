@@ -6,8 +6,8 @@
       <img src="./assets/profile_image.png" alt="My photo" width="800px"/>
     </td>
     <td width="500px">
-      <h1>Hi! I'm NIkolai</h1>
-      <h2>Dev👨🏻‍💻</h2>
+      <h1>Hi! I'm Nikolai</h1>
+      <h2>DevOps👨🏻‍💻</h2>
       <p>🌍 Based in Moscow, Russia</p>
       <p>🎮 Lover of tech, coffee, and clean code</p>
       <p>🌐 I also enjoy web development</p>
@@ -21,21 +21,19 @@
 
 ## 🛠️ My skills
 
-### 🐳 DevOps & SRE
+### 🐳 Stack
 
-![DevOps Skills](https://skillicons.dev/icons?i=nginx,docker,linux,git,ansible,grafana,prometheus,postman,bash,gitlab,neovim)
+![DevOps Skills](https://skillicons.dev/icons?i=nginx,docker,linux,git,ansible,grafana,prometheus,bash,gitlab,neovim)
 
 ---
 
 ### 🌐 Web dev
-
-![DevOps Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,nestjs,express,python)
+![Dev skills](https://skillicons.dev/icons?i=html,scss,typescript,react,nestjs,express,python)
 
 ---
 
 ### 💾 Databases
-
-![Database Skills](https://skillicons.dev/icons?i=postgresql,mysql,mongodb,sqlite)
+![Database Skills](https://skillicons.dev/icons?i=postgresql,mysql,mongodb)
 
 ---
 </div>
