@@ -10,7 +10,9 @@
         <p>🌍 Based in Moscow, Russia</p>
         <p>🎮 Lover of automation, coffee, and clean code</p>
         <p>🌐 I also enjoy web development</p>
-        Email: <a href="mailto:n.vdovin.work@gmail.com">n.vdovin.work@gmail.com</a>
+        <br/><br/>
+        Email: <a href="mailto:n.vdovin.work@gmail.com">n.vdovin.work@gmail.com</a><br/><br/>
+        Instagram: <a href="https://www.instagram.com/heenkii.png/">heenkii.png</a>
       </td>
     </tr>
   </table>
