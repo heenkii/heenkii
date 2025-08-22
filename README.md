@@ -1,12 +1,9 @@
 <div align="center">
   <table>
     <tr>
-      <td>
-        <img src="./assets/profile_image.png" alt="My photo" width="800px"/>
-      </td>
-      <td width="500px">
+      <td width="5000px">
         <h1>Hi! I'm Nikolai</h1>
-        <h2>DevOps engineer👨🏻‍💻</h2>
+        <h2>DevOps & SysOps engineer👨🏻‍💻</h2>
         <p>🌍 Based in Moscow, Russia</p>
         <p>🎮 Lover of automation, coffee, and clean code</p>
         <p>🌐 I also enjoy web development</p>
