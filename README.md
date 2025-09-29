@@ -18,7 +18,7 @@
 
 ## 🛠️ My skills
 ### 🐳 Stack
-![DevOps Skills](https://skillicons.dev/icons?i=nginx,docker,linux,git,ansible,grafana,prometheus,bash,gitlab,neovim)
+![DevOps Skills](https://skillicons.dev/icons?i=nginx,docker,linux,ansible,grafana,prometheus,bash,gitlab,terraform,kubernetes)
 ---
 ### 🌐 Web dev
 ![Dev skills](https://skillicons.dev/icons?i=html,scss,typescript,react,nestjs,python)
